@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleWebView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="url_webView">https://www.google.co.jp</string>
+</resources>
